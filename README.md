@@ -18,7 +18,7 @@ Soy **Desarrolladora Web** en constante aprendizaje, interesada en **proyectos f
 
 - [Página web de turismo - e-commerce](https://obeliscotours.netlify.app/)
 - [Página web de profesora particular online](https://clases-particulares.netlify.app/)
-- Puedes ver más en mi [portfolio completo](https://analia-elizabeth-fernandez.github.io/)
+- Puedes ver más en mi [portfolio completo](https://portfolio-analia-fernandez.netlify.app/)
 
 ---
 
